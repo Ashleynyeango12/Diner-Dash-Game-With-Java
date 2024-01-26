@@ -1,2 +1,3 @@
-# OOAD
-OOAD final project
+# Diner Dash Game
+
+Diner Dash is a time-management game where players assume the role of a restaurant manager. The objective is to efficiently serve customers, earn tips, and improve the restaurant's reputation. Players seat customers, take their orders, deliver food, and collect payments within a limited time. As the game progresses, the challenges increase, requiring players to handle more customers and meet their specific demands. Success relies on multitasking, prioritizing tasks, and strategically using power-ups to enhance efficiency. Players can also upgrade the restaurant's decor and equipment to attract more customers and earn higher scores. The game combines fast-paced gameplay, strategic decision-making, and customer satisfaction to create an engaging and addictive experience.
